@@ -1,11 +1,14 @@
 {
-  "name": "Quicklog",
+  "name": "quicklog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quciklog is a package which overwrites default console.log command to quickly create more sophisticated logs.",
   "main": "quicklog.js",
+  "entry point": "quicklog.js",
+  "git repository": "https://github.com/MichalPlatosz1/QuckLog",
   "scripts": {
     "test": ""
   },
+  "keywords": ["logs, logging"],
   "author": "Michał Płatosz",
   "license": "MIT"
 }
