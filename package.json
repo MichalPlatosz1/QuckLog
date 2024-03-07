@@ -1,0 +1,11 @@
+{
+  "name": "Quicklog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quicklog.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Michał Płatosz",
+  "license": "MIT"
+}
