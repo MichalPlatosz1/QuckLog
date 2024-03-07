@@ -50,3 +50,5 @@ console.log = function () {
 
   log.apply(console, args);
 };
+
+module.exports = console.log;
