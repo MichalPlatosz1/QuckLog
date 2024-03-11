@@ -80,12 +80,13 @@ you can define format to be used by ql_custom_timestamp string. It uses standard
 
 ```
 {
-  locales: string | Here you sepcify default locales,
-  options: {
-    here you pass options that you want in DateTimeFormat format. For more info [read](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
-  }
+  locales: string
+  options: {}
 }
+
 ```
+
+In DateTimeFormat standard which you can [read more about](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
 
 ## Additional options:
 
